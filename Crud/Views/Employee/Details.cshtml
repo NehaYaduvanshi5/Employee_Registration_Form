@@ -1,0 +1,47 @@
+﻿@using Crud.Utility
+@model  Crud.Models.EmployeeDeparmentviewmodel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+<h1>Details</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <div class="card">
+                <div class="card-header text-center">
+
+                    @if (Model.Gender == "Male")
+                    {
+                        <img src="" C:\Users\Neha Yadav\Downloads\images.jpg"" height="50" width="50" border-radius="60%" />
+                        
+                    }
+                    @if (Model.Gender == "Female")
+                    {
+                        <img src="" C:\Users\Neha Yadav\Downloads\female.jpg"" height="50" width="50" border-radius="60%" />
+
+                    }    
+                </div>
+                <div class="card-body">
+                    <h5 class="text-info text-center"> EmployeeInformation</h5>
+                    <table class="text-center table table-bordered">
+                        <tr><td>Employee Id :</td><td class="text-info">@Model.EmployeeId</td></tr>
+                        <tr><td>Employee Name : </td><td class="text-info">@Model.FullName</td></tr>
+                        <tr><td>Employee Gender : </td><td class="text-info">@Model.Gender</td></tr>
+                        <tr><td>Employee Department Id :</td><td class="text-info">@Model.DeparmentId</td></tr>
+                        <tr><td>Employee Department Name :</td><td class="text-info">@Model.DepartmentName</td></tr>
+                        <tr><td>Employee Department Code :</td><td class="text-info">@Model.DepartmentCode</td></tr>
+                        
+                        
+
+
+                    </table>
+                </div>
+                <div class="card-footer"></div>
+            </div>
+        </div>
+    </div>
+</div>

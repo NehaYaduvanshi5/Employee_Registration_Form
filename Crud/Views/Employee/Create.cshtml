@@ -1,0 +1,89 @@
+﻿@using Crud.Utility
+@model Crud.Models.EmployeeDeparmentviewmodel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+<h1>Create</h1>
+
+<div class="container">
+<div class="row">
+    <div class="col-6 offset-2">
+        <div class="card-header">
+            <h2 class="text-info text-center bg-light">
+                Add Employee
+            </h2>
+
+        </div>
+        <div class="card-body">
+            <form method="post" asp-action="Create" asp-controller="Employee">
+                <div class="form-group">
+                   
+                        <label asp-for="FirstName" class="mb-1"></label>
+                        <input type="text" class="form-control" placeholder="Enter First Name" autocomplete="off" asp-for="FirstName" />
+                        <span class="text-danger" asp-validation-for="FirstName"></span>
+                    
+                </div>
+                <div class="form-group">
+                    
+                        <label asp-for="LastName" class="mb-1"></label>
+                        <input type="text" class="form-control" placeholder="Enter LastName" autocomplete="off" asp-for="LastName" />
+                        <span class="text-danger" asp-validation-for="LastName"></span>
+                 
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Gender" class="mb-1"></label>
+                   <label asp-for="Gender" class="mb-1">
+                       <input  type="radio" asp-for="Gender" value="Male" class="form-check-input"/> Male
+                   </label>
+                    <label asp-for="Gender">
+                        <input type="radio" asp-for="Gender" value="Female" class="form-check-input" /> Female
+                    </label>
+                    <label asp-for="Gender">
+                        <input type="radio" asp-for="Gender" value="other" class="form-check-input" /> Other
+                    </label>
+                    <span class="text-danger" asp-validation-for="Gender"></span>
+                </div>
+                              
+                <div class="form-group col-lg-4 mt-2">
+               
+                        <label asp-for="DepartmentName" class="mb-1"></label>
+                        <select asp-for="DeparmentId">
+                            <option value="0">--select--</option>
+                            @foreach (var dep in ViewBag.y)
+                            {
+                            <option value="@dep.DeparmentId">@Utilities.EveryFirstCharacter(dep.DepartmentName)</option>
+                            }
+                        </select>
+                         <span class="text-danger" asp-validation-for="DeparmentId"></span>
+                 
+                </div>
+
+                <div class="form-group col-lg-4 mt-2">
+
+                    <label asp-for="DepartmentCode" class="mb-1"></label>
+                    <select asp-for="DeparmentId" >
+                        <option value="0">--select--</option>
+                        @foreach (var dep in ViewBag.y)
+                        {
+                            <option value="@dep.DeparmentId">@Utilities.EveryFirstCharacter(dep.DepartmentCode)</option>
+                        }
+                    </select>
+                    <span class="text-danger" asp-validation-for="DeparmentId"></span>
+
+                </div>
+             <div class="float-end">
+                <input type="submit" class="btn btn-primary" value="submit" />
+               </div>
+            </form>
+        </div>
+        <div class="card-footer mt-4">
+            <div  class="d-grid gap-2">
+                <a class="btn btn-warning  p-2 m-2" asp-controller="Employee" asp-action="Index" > Back to list</a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Crud.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Crud.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables.zip",
+      "PackagePath": "staticwebassets\\DataTables.zip"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\js\\datatable_file.js",
+      "PackagePath": "staticwebassets\\js\\datatable_file.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\FontAwesome\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\FontAwesome\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Crud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Crud.props",
+      "PackagePath": "build\\Crud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Crud.props",
+      "PackagePath": "buildMultiTargeting\\Crud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Crud.props",
+      "PackagePath": "buildTransitive\\Crud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

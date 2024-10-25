@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\shared\\_layoutdashboard.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layoutdashboard.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\wwwroot\\js\\datatable_file.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\js\\datatable_file.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\models\\employeedeparmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\models\\employeedeparmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\utility\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\utility\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\shared\\_notificationpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_notificationpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\views\\shared\\_loaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_loaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|c:\\users\\neha yadav\\desktop\\crud\\crud\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{760A2968-2647-4B19-B106-5DD13D4D1B7B}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:10:58.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:00.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:00.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "datatable_file.js",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\js\\datatable_file.js",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\js\\datatable_file.js",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\js\\datatable_file.js",
+              "RelativeToolTip": "Crud\\wwwroot\\js\\datatable_file.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T18:11:00.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutDashboard.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_LayoutDashboard.cshtml.css",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_LayoutDashboard.cshtml.css",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_LayoutDashboard.cshtml.css",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_LayoutDashboard.cshtml.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T18:11:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwDgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:00.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:00.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Crud\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswDkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T18:11:00.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Crud\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:00.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Crud.csproj",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T18:11:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\appsettings.json",
+              "RelativeToolTip": "Crud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T18:11:03.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Dashboard\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:03.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\DepartmentModel.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "Crud\\Models\\DepartmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:03.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeDeparmentviewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\EmployeeDeparmentviewmodel.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\EmployeeDeparmentviewmodel.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\EmployeeDeparmentviewmodel.cs",
+              "RelativeToolTip": "Crud\\Models\\EmployeeDeparmentviewmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:03.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Models\\ViewModel.cs",
+              "RelativeToolTip": "Crud\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:03.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:03.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Utility\\Utilities.cs",
+              "RelativeDocumentMoniker": "Crud\\Utility\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Utility\\Utilities.cs",
+              "RelativeToolTip": "Crud\\Utility\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:03.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_NotificationPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_NotificationPartialView.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_NotificationPartialView.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_NotificationPartialView.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_NotificationPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:03.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_LoaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_LoaderPartial.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_LoaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Views\\Shared\\_LoaderPartial.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_LoaderPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:11:03.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Crud\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T18:11:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Neha Yadav\\Desktop\\Crud\\Crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:11:03.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
